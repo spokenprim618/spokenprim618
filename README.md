@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm William Vasquez👋
 
 <!--
 **spokenprim618/spokenprim618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My coding skills
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,express,eclipse,nodejs,react,postman,regex,py,sass,supabase,vscode)
+### Where to contact me
+<a href = "https://www.linkedin.com/in/william-vasquez-18o2"><img src = "https://github.com/user-attachments/assets/66079878-1bbb-47e4-83ad-ae03013a6115" height=48px;/></a>
